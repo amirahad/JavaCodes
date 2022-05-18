@@ -1,4 +1,4 @@
-
+package NumericalAnalysis; 
 public class SecantMethod {
     
     static float f(float x) {

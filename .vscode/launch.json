@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "inheritance.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "encapsulation.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "basics.main",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "oop.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Room",
+            "request": "launch",
+            "mainClass": "Room",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
             "name": "Launch Swap_With",
             "request": "launch",
             "mainClass": "Swap_With",

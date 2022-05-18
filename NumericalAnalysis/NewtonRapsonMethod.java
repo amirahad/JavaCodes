@@ -1,4 +1,4 @@
- 
+package NumericalAnalysis; 
 public class NewtonRapsonMethod {
 	
 	static final double EPSILON = 0.001;

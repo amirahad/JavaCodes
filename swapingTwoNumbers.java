@@ -5,7 +5,8 @@ class Swap_With {
        Scanner sc = new Scanner(System.in);  
        System.out.println("Enter the value of X and Y");  
        x = sc.nextInt();  
-       y = sc.nextInt();  
+       y = sc.nextInt(); 
+       sc.close(); 
        System.out.println("before swapping numbers: "+x +"  "+ y);  
        t = x;  
        x = y;  

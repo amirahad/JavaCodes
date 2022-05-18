@@ -1,4 +1,4 @@
-package Basics;
+package basics;
 import java.util.*;
 
 public class conditional {
@@ -11,6 +11,7 @@ public class conditional {
         System.out.println("Enter the second value:");
         int b = sc.nextInt();
         int c;
+        sc.close();
         switch (operator){
             case '+':
                 c = a+b;
