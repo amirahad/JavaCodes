@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SimsonMethod",
+            "request": "launch",
+            "mainClass": "NumericalAnalysis.SimsonMethod",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch TrapezoidalMethod",
+            "request": "launch",
+            "mainClass": "NumericalAnalysis.TrapezoidalMethod",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch HallyeMethod",
+            "request": "launch",
+            "mainClass": "NumericalAnalysis.HallyeMethod",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch MullerMethod",
+            "request": "launch",
+            "mainClass": "NumericalAnalysis.MullerMethod",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bisection",
+            "request": "launch",
+            "mainClass": "NumericalAnalysis.Bisection",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewtonRapsonMethod",
+            "request": "launch",
+            "mainClass": "NumericalAnalysis.NewtonRapsonMethod",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch SecantMethod",
+            "request": "launch",
+            "mainClass": "NumericalAnalysis.SecantMethod",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Interface.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Abstraction2.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Abstraction.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
             "name": "Launch Test",
             "request": "launch",
             "mainClass": "oop_assignment.Test",
