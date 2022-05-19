@@ -1,11 +1,13 @@
 package inheritance;
 
 public class Teacher  extends Person{
-    String qualification;
+    private String qualification;
 
     
     public Teacher(String name, int age, String qualification) {
-        super(name,age);
+        // super(name,age);
+        setName(name);
+        setAge(age);
         this.qualification = qualification;
     }
     void display2(){
