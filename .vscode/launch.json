@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Test",
             "request": "launch",
+            "mainClass": "oop_assignment.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
             "mainClass": "polymorphism2.Test",
             "projectName": "JavaCodes_efd6c0a2"
         },
