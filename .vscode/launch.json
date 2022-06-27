@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "overloading_constractor.Test",
+            "projectName": "JavaCodes_efd6c0a2"
+        },
+        {
+            "type": "java",
             "name": "Launch SimsonMethod",
             "request": "launch",
             "mainClass": "NumericalAnalysis.SimsonMethod",
